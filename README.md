@@ -2,6 +2,8 @@
 
 일반 사용자는 [최신 릴리스](https://github.com/kklidi/nosasu-pdf-releases/releases/latest)에서 이름이 `-windows-setup.exe`로 끝나는 설치 파일 하나만 받으면 됩니다.
 
+> **0.5.3 사용자는 0.5.4 Setup 파일을 한 번 직접 내려받아 설치하세요.** 업데이트 서명 키가 0.5.4에서 교체되어 0.5.3 앱의 자동 업데이트로는 0.5.4를 설치할 수 없습니다. 0.5.4 설치 후 후속 버전부터 자동 업데이트를 다시 사용할 수 있습니다.
+
 - `NOSASU-PDF-…-windows-setup.exe`: Windows 설치형
 - `latest.json`: 앱 자동 업데이트용 기술 파일이며 직접 실행하지 않습니다.
 
